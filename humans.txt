@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Cheryl Simmons -- <Technical Writer> -- <@cherylws>
 
 # THANKS
 
